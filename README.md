@@ -1,5 +1,4 @@
 # DeepLearning-statistical-perspective
-=======
 ## Can data augmentation really replace explicit regularization?
 -------
 Deep Learning : Statistical perspective (Fall 2020)
