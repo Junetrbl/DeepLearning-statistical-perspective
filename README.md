@@ -1,8 +1,8 @@
 # DeepLearning-statistical-perspective
 ## Can data augmentation really replace explicit regularization?
 
+**Critical review on *Data augmentation instead of explicit regularization* by Alex Hernández-García and Peter König** with code and paper - 
 Deep Learning : Statistical perspective (Fall 2020)
-**Critical review on *Data augmentation instead of explicit regularization* by Alex Hernández-García and Peter König** with code and paper
 
 >Abstract
 
